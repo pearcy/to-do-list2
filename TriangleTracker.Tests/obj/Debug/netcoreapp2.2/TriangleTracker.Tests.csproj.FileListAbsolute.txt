@@ -1,0 +1,17 @@
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.Tests.deps.json
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.Tests.runtimeconfig.json
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.Tests.runtimeconfig.dev.json
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.Tests.dll
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.Tests.pdb
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\obj\Debug\netcoreapp2.2\TriangleTracker.Tests.csprojAssemblyReference.cache
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\obj\Debug\netcoreapp2.2\TriangleTracker.Tests.csproj.CoreCompileInputs.cache
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\obj\Debug\netcoreapp2.2\TriangleTracker.Tests.AssemblyInfoInputs.cache
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\obj\Debug\netcoreapp2.2\TriangleTracker.Tests.AssemblyInfo.cs
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\obj\Debug\netcoreapp2.2\TriangleTracker.Tests.dll
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\obj\Debug\netcoreapp2.2\TriangleTracker.Tests.pdb
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.dll
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.pdb
+C:\Users\potts\desktop\csharp\TriangleTracker.Solution\triangleTracker.tests\obj\Debug\netcoreapp2.2\TriangleTracker.Tests.csproj.CopyComplete
